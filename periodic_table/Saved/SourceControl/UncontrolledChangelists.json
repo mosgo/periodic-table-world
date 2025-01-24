@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/uni/year3/periodic_table/periodic_table/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/BP_ptPlaceholder.uasset",
+				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/BP_gamePlaceholder.uasset",
+				"E:/uni/year3/periodic_table/periodic_table/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"E:/uni/year3/periodic_table/periodic_table/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/box.uasset",
+				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/lambert1.uasset",
+				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/smoothboard.uasset"
+			]
+		}
+	]
+}
