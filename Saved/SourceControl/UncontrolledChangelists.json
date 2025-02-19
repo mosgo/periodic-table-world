@@ -160,7 +160,6 @@
 				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/DB2X2_L02.uasset",
 				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/Trank_bark1.uasset",
 				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/Tree.uasset",
-				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/questions/Grabbable_SmallCube1.uasset",
 				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/questions/question_carbonelectrons.uasset",
 				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/questions/question_criterion.uasset",
 				"E:/uni/year3/periodic_table/periodic_table/Content/MSPresets/M_MS_Surface_Material_VT/M_MS_Surface_Material_VT.uasset",
@@ -185,7 +184,22 @@
 				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/spaceship-panels-ue/spaceship-panels1-roughness.uasset",
 				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/spaceship-panels-ue/T_sbymccip_2K_MR.uasset",
 				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/spaceship-panels-ue/Textures/T_sbymccip_2K_MR.uasset",
-				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/spaceship-panels-ue/ship-corridor-ue/T_sbymccip_2K_MR.uasset"
+				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/spaceship-panels-ue/ship-corridor-ue/T_sbymccip_2K_MR.uasset",
+				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/Textures/SpawnUIElement.uasset",
+				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/Textures/bpui_hydrogen.uasset",
+				"E:/uni/year3/periodic_table/periodic_table/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/Textures/hydrogen.uasset",
+				"D:/uni/year3/periodic_table/periodic_table/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/downloads/black_board.uasset",
+				"D:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/downloads/Black_board_leg.uasset",
+				"D:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/downloads/dome_glass.uasset",
+				"D:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/downloads/Main_room.uasset",
+				"D:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/downloads/owindow_frame.uasset",
+				"D:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/downloads/standardSurface1.uasset",
+				"D:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/downloads/TABLE_MAP.uasset",
+				"D:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/downloads/window.uasset",
+				"D:/uni/year3/periodic_table/periodic_table/Content/Megascans/3D_Assets/Wooden_Table_vl0jbem/S_Wooden_Table_vl0jbem_lod3_Var1.uasset",
+				"E:/uni/year3/periodic_table/periodic_table/Content/Characters/MannequinsXR/models/questions/Grabbable_SmallCube1.uasset"
 			]
 		}
 	]
